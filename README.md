@@ -27,5 +27,15 @@ JCON is a configuration format that keeps the familiarity of JSON, but requires 
     }
 }
 
-
 ```
+
+## Features
+
+- No quotation marks for strings or keys.
+- Separation by line breaks, not commas.
+- Support for line comments.
+- Support for multi-line strings.
+- Small footprint (~ 4k minified). No dependencies.
+
+
+
