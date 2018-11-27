@@ -2,6 +2,9 @@
 
 JCON is a configuration format that keeps the familiarity of JSON, but requires less syntax -- making it easier to read and write.
 
+[JCON Home Page](https://jconformat.org)
+
+
 ## At a Glance
 
 ```
@@ -38,4 +41,8 @@ JCON is a configuration format that keeps the familiarity of JSON, but requires 
 - Small footprint (~ 7k). No dependencies.
 
 
+## Implementations
+
+- [JavaScript](https://github.com/joelesko/jcon-js) 
+- PHP (coming soon)
 
